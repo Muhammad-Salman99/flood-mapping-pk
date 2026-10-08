@@ -1,0 +1,19 @@
+# Large / local-only files — these live in Google Drive, never in git
+data/
+checkpoints/
+*.tif
+*.tiff
+*.geotiff
+*.gpkg
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / secrets
+.DS_Store
+Thumbs.db
+.env

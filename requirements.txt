@@ -1,0 +1,14 @@
+# Core stack (Weeks 1–5: Colab/Kaggle; Week 6: local or Streamlit Cloud)
+earthengine-api
+geemap
+rasterio
+geopandas
+scikit-image
+segmentation-models-pytorch
+torch
+numpy
+pandas
+matplotlib
+
+# Dashboard only (Week 6)
+streamlit
